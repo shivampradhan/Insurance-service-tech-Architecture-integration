@@ -13,7 +13,7 @@
 
 Step 1: Understanding of the key stakeholders
 
-![Untitled](image/Untitled.png)
+![Untitled](Image/Untitled.png)
 
 Assuming there is no trial for our product else: the trial-to-completion rate
 
@@ -71,7 +71,7 @@ The Customer Lifetime Value to Customer Acquisition Cost ratio (CLTV/CAC) is a c
 
 ## Example Dashboard
 
-![Untitled](image/Untitled%201.png)
+![Untitled](Image/Untitled%201.png)
 
 link of dashboard : https://drive.google.com/file/d/1j-HRllAxlrnvT2ZukSO2CEhf0ansCTGL/view?usp=sharing
 
