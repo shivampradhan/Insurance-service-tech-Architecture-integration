@@ -155,9 +155,7 @@ link of csv : https://docs.google.com/spreadsheets/d/1fRWPDnQsH-jSOR0E9lGAyZpRkm
 - TargetAudience
 - NumberOfNewCustomersAcquired
 
-```jsx
 
-```
 
 ```jsx
 CREATE TABLE MarketingExpenses (
@@ -170,13 +168,6 @@ NumberOfNewCustomersAcquired INT
 );
 ```
 
-```jsx
-Assuming we have these tables, we can insert some "dummy" data:
-```
-
-```jsx
-
-```
 
 ```jsx
 CREATE TABLE Customers (
@@ -319,12 +310,9 @@ JOIN
 CustomerAOV aov ON cltv.CustomerID = aov.CustomerID;
 ```
 
-```jsx
-
-```
 
 ```jsx
-MASTER TABLE
+MASTER TABLE example :
 customer id | product id | policy id | amount | date |is_active| cancellation date| device used 
 ```
 
