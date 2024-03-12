@@ -1,8 +1,3 @@
----
-
----
-
----
 
 # *Introduction of Part 1:*
 
@@ -18,7 +13,7 @@
 
 Step 1: Understanding of the key stakeholders
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/00b6ddd5-b1c6-4668-aed1-9bdbff0a20c9/1a213478-e8ba-4b38-a315-1a3d9b48fe1d/Untitled.png)
+![Untitled](image/Untitled.png)
 
 Assuming there is no trial for our product else: the trial-to-completion rate
 
@@ -76,7 +71,7 @@ The Customer Lifetime Value to Customer Acquisition Cost ratio (CLTV/CAC) is a c
 
 ## Example Dashboard
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/00b6ddd5-b1c6-4668-aed1-9bdbff0a20c9/f0175bb0-98ed-4fc0-8e03-6f1ba486b723/Untitled.png)
+![Untitled](image/Untitled%201.png)
 
 link of dashboard : https://drive.google.com/file/d/1j-HRllAxlrnvT2ZukSO2CEhf0ansCTGL/view?usp=sharing
 
@@ -398,4 +393,4 @@ Several potential failure points from the original:
 
 Each change mitigates specific risks and improves the robustness and reliability of the database operation.
 
-**all files can be found here** : https://drive.google.com/drive/folders/1YlLN_wN7cg9WCeeM53-pWuCr5GNYX9oq?usp=sharing
+**all files can be found here** : [https://drive.google.com/drive/folders/1YlLN_wN7cg9WCeeM53-pWuCr5GNYX9oq?usp=sharing](https://drive.google.com/drive/folders/1YlLN_wN7cg9WCeeM53-pWuCr5GNYX9oq?usp=sharing)
